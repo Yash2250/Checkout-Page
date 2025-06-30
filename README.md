@@ -12,7 +12,11 @@ A simple and interactive web application that allows users to add products to a 
 - Simple and clean **HTML/CSS/JavaScript** implementation
 - Easy to extend with more features like payment or user login
 
+## 📸 Screenshots
 
+| Home Page | Cart View |
+|-----------|-----------|
+| ![Home](https://github.com/Yash2250/Checkout-Page/blob/99234900e9f96d6d9a39276e4458e04cd951e8ca/Screenshot%20(12).png) | ![Cart](https://github.com/Yash2250/Checkout-Page/blob/99234900e9f96d6d9a39276e4458e04cd951e8ca/Screenshot%20(13).png) |
 
 ## 📦 Product List
 
